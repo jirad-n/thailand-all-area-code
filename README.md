@@ -8,4 +8,4 @@ npm run dev\
 enter key 'o'
 
 original database = https://raw.githubusercontent.com/kongvut/thai-province-data/master/api_province_with_amphure_tambon.json \
-Thank you the original app by [@kongvut](https://github.com/kongvut/thai-province-data).
+Thank you the resources by [@kongvut](https://github.com/kongvut/thai-province-data).
