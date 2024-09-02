@@ -1,8 +1,10 @@
-# React + Vite
+# Thailand-all-area-code
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+install node.js on your computer before running this app.
+cd {this folder path}
+npm install
+npm run dev
+enter key 'o'
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+original database = https://raw.githubusercontent.com/kongvut/thai-province-data/master/api_province_with_amphure_tambon.json
+Thank you the original app by @kongvut.
